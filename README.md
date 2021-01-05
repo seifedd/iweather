@@ -1,2 +1,2 @@
 # iweather-
-Angular 4 ionic framework 
+ Mobile weather app using Ionic 3 and Angular 4
